@@ -9,10 +9,9 @@ git clone https://github.com/Trajano157/DirBatch.git
 
 Se você não tem o git instale por esse link:
 
-https://github.com/Trajano157/DirBatch.git/archive/refs/heads/main.zip
-
+https://codeload.github.com/Trajano157/DirBatch/zip/refs/heads/main
 ## Uso
-Basta dar dois cliques em cima do *[DirBatch.bat](https://github.com/Trajano157/DirBatch/DirBatch.bat "DirBatch.bat")*
+Basta dar dois cliques em cima do *[DirBatch.bat](https://github.com/Trajano157/DirBatch/blob/main/DirBatch.bat "DirBatch.bat")*
 e depois só usar 
 
 
