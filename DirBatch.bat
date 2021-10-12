@@ -1,3 +1,6 @@
+::  By: Trajano
+::  Version: 1.0
+
 @echo off
 set /p URL=Digite a URl:
 echo HTTP_CODE
