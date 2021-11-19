@@ -18,4 +18,4 @@ e depois só usar
 
 
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link(https://youtu.be/r5wTLctqawA))](https://youtu.be/r5wTLctqawA)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link(https://youtu.be/r5wTLctqawA))](https://youtu.be/mJDlaho1F7s)
