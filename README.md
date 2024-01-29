@@ -11,9 +11,9 @@ Se você não tem o git instale por esse link:
 
 https://codeload.github.com/trajano33/DirBatch/zip/refs/heads/main
 ## Uso
-Baixe alguma WordList e coloque na mesma pasta do arquivo *[DirBatch.bat](https://github.com/Trajano157/DirBatch/blob/main/DirBatch.bat "DirBatch.bat")* e renomeie para wordlist.txt
+Baixe alguma WordList e coloque na mesma pasta do arquivo *[DirBatch.bat](https://github.com/trajano33/DirBatch/blob/main/DirBatch.bat "DirBatch.bat")* e renomeie para wordlist.txt
 
-Basta dar dois cliques em cima do *[DirBatch.bat](https://github.com/Trajano157/DirBatch/blob/main/DirBatch.bat "DirBatch.bat")*
+Basta dar dois cliques em cima do *[DirBatch.bat](https://github.com/trajano33/DirBatch/blob/main/DirBatch.bat "DirBatch.bat")*
 e depois só usar 
 
 
