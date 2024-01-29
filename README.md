@@ -5,7 +5,7 @@ Esta é uma tool que foi baseada no *[DirSearch](https://github.com/maurosoria/d
 ## Install
 Se você tem o git instalado é só dar o seguinte comando:
 
-git clone https://github.com/Trajano157/DirBatch.git
+git clone https://github.com/trajano33/DirBatch.git
 
 Se você não tem o git instale por esse link:
 
